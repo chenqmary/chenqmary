@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm a Software Engineering Student!
+# 👋 Kukusiki, I'm a Software Engineering Student!
 
 ### 🎓 ITMO University | Software Engineering
 
@@ -73,7 +73,7 @@ def main(): print("Hello, world!") print("Welcome to my GitHub profile!") if nam
 
 ## 📊 GitHub Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=chenqmary&color=redt&style=flat-square&label=Profile+Views)
 
 ---
 
