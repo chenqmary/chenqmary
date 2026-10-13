@@ -1,4 +1,4 @@
-# 💫 About Me <sub>─────  <b>@chenqmary</b>  ─────</sub>
+# 💫 About Me <sub>─────  <b><a href="https://github.com/chenqmary">@chenqmary</a></b>  ─────</sub>
 
 # 👋 Kukusiki, I'm a Software Engineering Student!
 
