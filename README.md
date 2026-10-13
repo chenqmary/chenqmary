@@ -1,7 +1,24 @@
-## 💫 About Me:
+# 💫 About Me:
 # 👋 Kukusiki, I'm a Software Engineering Student!<br><br>### 🎓 ITMO University | Software Engineering<br><br>I'm currently studying **Software Engineering at ITMO University**.<br><br>I enjoy learning how software works, solving problems, and exploring new technologies.<br><br>My current focus is on **C** and **Python**, while continuously improving my programming skills.<br><br>---<br><br>## 💻 Tech Stack<br><br>- **C** — programming fundamentals and low-level programming<br>- **Python** — scripting, problem-solving, and automation<br>- `Git` — version control and collaboration<br><br>> "The best way to learn programming is to write code."<br><br>---<br><br>## 🚀 About Me<br><br>1. 🎓 Studying Software Engineering at ITMO University<br>2. 🐍 Learning and practicing Python<br>3. ⚙️ Developing my skills in C<br>4. 📚 Exploring algorithms, data structures, and software development
-## 🛠️ Technologies I'm Learning | Technology | Experience | |:---|:---| | C | Learning | | Python | Learning | | Git | Learning | | Algorithms & Data Structures | Learning |
-### My goals - [x] Start learning programming - [x] Learn the basics of C and Python - [ ] Build more personal projects - [ ] Contribute to open-source projects - [ ] Become a better software engineer
+## 🛠️ ## 🛠️ Technologies I'm Learning
+| Technology                   | Experience |
+| :--------------------------- | :--------- |
+| C                            | Learning   |
+| Python                       | Learning   |
+| Git                          | Learning   |
+| Algorithms & Data Structures | Learning   |
+
+### 🎯 My Git Learning Goals
+
+* [x] Learn the basics of Git
+* [x] Create repositories
+* [x] Make commits
+* [x] Work with branches
+* [ ] Practice merging branches
+* [ ] Learn to resolve merge conflicts
+* [ ] Create pull requests
+* [ ] Collaborate on GitHub projects
+
 
 
 ## 🌐 Socials:
