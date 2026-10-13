@@ -1,97 +1,21 @@
+# 💫 About Me:
+# 👋 Kukusiki, I'm a Software Engineering Student!<br><br>### 🎓 ITMO University | Software Engineering<br><br>I'm currently studying **Software Engineering at ITMO University**.<br><br>I enjoy learning how software works, solving problems, and exploring new technologies.<br><br>My current focus is on **C** and **Python**, while continuously improving my programming skills.<br><br>---<br><br>## 💻 Tech Stack<br><br>- **C** — programming fundamentals and low-level programming<br>- **Python** — scripting, problem-solving, and automation<br>- `Git` — version control and collaboration<br><br>> "The best way to learn programming is to write code."<br><br>---<br><br>## 🚀 About Me<br><br>1. 🎓 Studying Software Engineering at ITMO University<br>2. 🐍 Learning and practicing Python<br>3. ⚙️ Developing my skills in C<br>4. 📚 Exploring algorithms, data structures, and software development
 
-# 👋 Kukusiki, I'm a Software Engineering Student!
 
-### 🎓 ITMO University | Software Engineering
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/maryy_.kv?dlrf=MWc5ZDlyanQ2dnVudw%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mariia-kabanova-317276442) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariakabanova2008@mail.ru) 
 
-I'm currently studying **Software Engineering at ITMO University**.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=chenqmary&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=chenqmary&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chenqmary&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I enjoy learning how software works, solving problems, and exploring new technologies.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chenqmary&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
-My current focus is on **C** and **Python**, while continuously improving my programming skills.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chenqmary&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
----
-
-## 💻 Tech Stack
-
-- **C** — programming fundamentals and low-level programming
-- **Python** — scripting, problem-solving, and automation
-- `Git` — version control and collaboration
-
-> "The best way to learn programming is to write code."
-
----
-
-## 🚀 About Me
-
-1. 🎓 Studying Software Engineering at ITMO University
-2. 🐍 Learning and practicing Python
-3. ⚙️ Developing my skills in C
-4. 📚 Exploring algorithms, data structures, and software development
-
-### My goals
-
-- [x] Start learning programming
-- [x] Learn the basics of C and Python
-- [ ] Build more personal projects
-- [ ] Contribute to open-source projects
-- [ ] Become a better software engineer
-
----
-
-## 🛠️ Technologies I'm Learning
-
-| Technology | Experience |
-|:---|:---|
-| C | Learning |
-| Python | Learning |
-| Git | Learning |
-| Algorithms & Data Structures | Learning |
-
----
-
-## 🐍 Code I Like
-def main(): print("Hello, world!") print("Welcome to my GitHub profile!") if name == "main": main()
-#include \<stdio.h\> int main(void) { printf("Hello, world!\\n"); return 0; }
----
-
-## 📌 Currently Working On
-
-- Improving my C and Python skills
-- Practicing algorithms and data structures
-- Developing my first independent projects
-
-~~Knowing everything already~~ Learning something new every day.
-
----
-
-## 🔗 Find Me
-
-- 🎓 [ITMO University](https://itmo.ru/)
-- 💻 [My GitHub Repositories](https://github.com/)
-
----
-
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=chenqmary&color=redt&style=flat-square&label=Profile+Views)
-
----
-
-### ✨ A little more about me
-
-<details>
-  <summary>Click to expand</summary>
-
-  I'm at the beginning of my software engineering journey.
-
-  I believe that consistent practice, curiosity, and working on real projects
-  are the keys to becoming a good developer.
-
-  My goal is to turn theoretical knowledge into practical experience.
-
-</details>
-
----
-
-⭐ Thanks for visiting my profile!
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
