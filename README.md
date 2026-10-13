@@ -14,9 +14,9 @@
 * [x] Create repositories
 * [x] Make commits
 * [x] Work with branches
-* [ ] Practice merging branches
-* [ ] Learn to resolve merge conflicts
-* [ ] Create pull requests
+* [x] Practice merging branches
+* [x] Learn to resolve merge conflicts
+* [x] Create pull requests
 * [ ] Collaborate on GitHub projects
 
 
