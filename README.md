@@ -1,5 +1,29 @@
-# 💫 About Me:
-# 👋 Kukusiki, I'm a Software Engineering Student!<br><br>### 🎓 ITMO University | Software Engineering<br><br>I'm currently studying **Software Engineering at ITMO University**.<br><br>I enjoy learning how software works, solving problems, and exploring new technologies.<br><br>My current focus is on **C** and **Python**, while continuously improving my programming skills.<br><br>---<br><br>## 💻 Tech Stack<br><br>- **C** — programming fundamentals and low-level programming<br>- **Python** — scripting, problem-solving, and automation<br>- `Git` — version control and collaboration<br><br>> "The best way to learn programming is to write code."<br><br>---<br><br>## 🚀 About Me<br><br>1. 🎓 Studying Software Engineering at ITMO University<br>2. 🐍 Learning and practicing Python<br>3. ⚙️ Developing my skills in C<br>4. 📚 Exploring algorithms, data structures, and software development
+# 💫 About Me
+
+# 👋 Kukusiki, I'm a Software Engineering Student!
+
+### 🎓 ITMO University | Software Engineering
+I'm currently studying **Software Engineering at ITMO University**.
+I enjoy learning how software works, solving problems, and exploring new technologies.
+My current focus is on **C** and **Python**, while continuously improving my programming skills.
+---
+## 💻 Tech Stack
+* **C** — programming fundamentals and low-level programming
+* **Python** — scripting, problem-solving, and automation
+* `Git` — version control and collaboration
+---
+
+> "The best way to learn programming is to write code."
+
+---
+
+## 🚀 About Me
+
+1. 🎓 Studying Software Engineering at ITMO University
+2. 🐍 Learning and practicing Python
+3. ⚙️ Developing my skills in C
+4. 📚 Exploring algorithms, data structures, and software development
+
 ## 🛠️ ## 🛠️ Technologies I'm Learning
 | Technology                   | Experience |
 | :--------------------------- | :--------- |
